@@ -1,4 +1,4 @@
-# Flutter Google Maps Tutorial
+# Flutter Google Maps
 # This project helps to use a google map feature in flutter
 
 - Get an API Key at [https://cloud.google.com/maps-platform/](https://cloud.google.com/maps-platform/)
